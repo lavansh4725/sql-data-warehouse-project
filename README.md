@@ -214,12 +214,13 @@ sql-data-warehouse-project/
 ### 👨‍💻 Connect with the Author
 
 **Lavansh Jindal**  
-*Data & AI Engineer | Database Architect & Full-Stack Developer*
+*Data Analyst | Software Developer | Full-Stack Developer | Business Intelligence Analyst*
 
 [![GitHub](https://img.shields.io/badge/GitHub-lavansh4725-181717?style=flat&logo=github&logoColor=white)](https://github.com/lavansh4725)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lavansh%20Jindal-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavansh-jindal/)
-[![Email](https://img.shields.io/badge/Email-lavanshjindal47%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lavanshjindal47@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-lavansh__0395-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/lavansh_0395/)
+[![Email](https://img.shields.io/badge/Email-lavansh4725jindal%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lavansh4725jindal@gmail.com)
 
-<sub>*"Architecting scalable, resilient data pipelines and dimensional warehouses that transform operational data into trusted business value."*</sub>
+<sub>*"Bridging full-stack software development and data analytics — architecting resilient dimensional data warehouses, intelligent GenAI platforms, and high-impact business intelligence."*</sub>
 
 </div>
