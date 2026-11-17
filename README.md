@@ -216,6 +216,7 @@ sql-data-warehouse-project/
 **Lavansh Jindal**  
 *Data Analyst | Software Developer | Full-Stack Developer | Business Intelligence Analyst*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-lavansh--jindal.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://lavansh-jindal.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-lavansh4725-181717?style=flat&logo=github&logoColor=white)](https://github.com/lavansh4725)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lavansh%20Jindal-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavansh-jindal/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-lavansh__0395-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/lavansh_0395/)
