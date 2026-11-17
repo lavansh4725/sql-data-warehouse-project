@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Executive Summary
+## 📌 Project Summary
 
 Modern enterprise organizations frequently struggle with fragmented data across disparate transactional systems. This project delivers an end-to-end, production-grade **Data Warehouse (DWH)** on **Microsoft SQL Server**, ingesting raw datasets from heterogeneous enterprise sources (**CRM** and **ERP** systems), cleansing and conforming data in a structured staging environment, and exposing business-ready multidimensional dimensional models (**Kimball Star Schema**) for reporting, analytics, and business intelligence.
 
@@ -333,7 +333,6 @@ SQL_Data_Warehouse_Project/
 │       └── ddl_gold.sql                 # Kimball Star Schema views & surrogate keys
 │
 └── tests/                               # Data quality assurance & verification suite
-    ├── data_quality_check.sql           # Comprehensive exploratory data quality scripts
     ├── quality_checks_silver.sql        # Silver layer validation tests
     └── quality_checks_gold.sql          # Gold layer integrity & referential tests
 ```
@@ -440,7 +439,9 @@ ORDER BY c.country, revenue DESC;
 
 ---
 
-## 👤 Author & Acknowledgments
+## 👤 Author
+
+Lavansh Jindal
 
 * **Project:** Enterprise SQL Data Warehouse & ETL Pipeline
 * **Data Sources:** Synthesized Multi-System Enterprise Data (CRM & ERP)
